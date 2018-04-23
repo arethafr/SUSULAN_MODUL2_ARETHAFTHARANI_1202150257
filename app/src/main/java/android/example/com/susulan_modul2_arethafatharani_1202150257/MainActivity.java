@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //toast /pesan yang akan muncul
-        Toast.makeText(this,"RIZKA_1202154305",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"ARETHA_1202150257",Toast.LENGTH_SHORT).show();
     }
 
     public void onClickOrder(View view) { // method radio button
